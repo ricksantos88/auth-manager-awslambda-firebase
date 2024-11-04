@@ -4,7 +4,7 @@ from chalicelib.utils.firebase_initializer import firebase_initializer
 extra_routes_refresh_token = Blueprint(__name__)
 firebase = firebase_initializer()
 
-@extra_routes_refresh_token.route("/refresh_token", methods=["POST"])
+@extra_routes_refresh_token.route("/refresh-token", methods=["POST"])
 def refresh_token_routes():
     
     try:

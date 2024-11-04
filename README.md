@@ -16,8 +16,6 @@ Este projeto é um serviço de autenticação serverless utilizando AWS Lambda e
     "password": "senha123"
   }
 
-###<vscode_annotation details='%5B%7B%22title%22%3A%22hardcoded-credentials%22%2C%22description%22%3A%22Embedding%20credentials%20in%20source%20code%20risks%20unauthorized%20access%22%7D%5D'> Cadastro</vscode_annotation>
-
 ### Signup
 
 - **URL:** `/signup`

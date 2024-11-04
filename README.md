@@ -41,8 +41,7 @@ Este projeto é um serviço de autenticação serverless utilizando AWS Lambda e
     "refresh_token": "token_de_atualizacao"
   }
 
-## Configuração
-### Pré-requisitos
+## Pré-requisitos
 
 - Python 3.8+
 - AWS CLI configurado

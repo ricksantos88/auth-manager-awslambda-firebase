@@ -30,7 +30,7 @@ Este projeto é um serviço de autenticação serverless utilizando AWS Lambda e
 
 ### Refresh token
 
-- **URL:** `/signup`
+- **URL:** `/refresh-token`
 - **Método:** `POST`
 - **Descrição:** Cria um novo usuário com email e senha.
 - **Exemplo de Corpo da Requisição:**

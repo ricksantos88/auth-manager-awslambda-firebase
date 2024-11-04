@@ -44,6 +44,6 @@ Este projeto é um serviço de autenticação serverless utilizando AWS Lambda e
 ## Configuração
 ### Pré-requisitos
 
--Python 3.8+
--AWS CLI configurado
--Chalice instalado (pip install chalice)
+- Python 3.8+
+- AWS CLI configurado
+- Chalice instalado (pip install chalice)

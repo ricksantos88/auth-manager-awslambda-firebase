@@ -2,34 +2,6 @@
 
 Este projeto é um serviço de autenticação serverless utilizando AWS Lambda e Chalice. Ele fornece endpoints para login, cadastro e atualização de tokens utilizando Firebase Authentication.
 
-## Estrutura do Projeto
-
-.
-├── __pycache__/
-├── .chalice/
-│   ├── config.json
-│   ├── deployed/
-│   │   └── dev.json
-│   └── deployments/
-├── .gitignore
-├── app.py
-├── chalicelib/
-│   ├── __init__.py
-│   ├── __pycache__/
-│   ├── utils/
-│   │   ├── __init__.py
-│   │   ├── __pycache__/
-│   │   ├── firebase_initializer.py
-│   │   └── ssm.py
-│   └── views/
-│       ├── __init__.py
-│       ├── __pycache__/
-│       ├── login.py
-│       ├── refresh_token.py
-│       └── signup.py
-├── README.md
-├── requirements.txt
-
 ## Endpoints
 
 ### Login
